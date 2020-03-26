@@ -44,3 +44,4 @@ npm start
 - I have converted the format for the time using moment.
 - I have managed the state of timeline, filtering and the current state.
 - Managed the current state of logistics in comparison with awbno, So it helps users to get the information.
+- I have updated the UI styling for the status of the item in table
